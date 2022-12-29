@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIGame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: bf5376c8d953afe4eb40c822d8705ede, type: 3}
+    - {fileID: 102900000, guid: 837e876a4bbcd014a90ffd9a4b30341a, type: 3}
+    - {fileID: 102900000, guid: edbdeef9ac571f940b006e3db02e8b09, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1bfb6850b4cf1784faf8a1664f5e077a, type: 3}
+  - {fileID: 21300000, guid: 961a71f1575617148a90fa63a579dc36, type: 3}
+  - {fileID: 21300000, guid: 5524cc0291c7eb941bfcd9201dd671fe, type: 3}
+  - {fileID: 21300000, guid: a3f752e2ffdf2a94fbe5293531857570, type: 3}
+  - {fileID: 21300000, guid: cb5c1c0351b0ce549a57945421443728, type: 3}
+  - {fileID: 21300000, guid: acc19343b8ba1d846bece93b4a4f9505, type: 3}
+  - {fileID: 21300000, guid: 06c024c3d4b7eac42ad83c99e91f9086, type: 3}
+  - {fileID: 21300000, guid: 93922f54dd7a37c4d807f928a035a2c4, type: 3}
+  - {fileID: 21300000, guid: bfed12949f50e8d449ad1baf6eb14faf, type: 3}
+  - {fileID: 21300000, guid: 909b22d418ec4b94c895a179d3bccb3f, type: 3}
+  - {fileID: 21300000, guid: fe416335b9d2839408403f9a587359bc, type: 3}
+  - {fileID: 21300000, guid: 8a95a25594363724fa191418b59b06a9, type: 3}
+  - {fileID: 21300000, guid: aa163f16e6667a04289eaa1afa162e67, type: 3}
+  - {fileID: 21300000, guid: afb20036bb58a6543b0227f5e2bca228, type: 3}
+  - {fileID: 21300000, guid: fedc34b6f199cf34caaf77f733b4c2bf, type: 3}
+  - {fileID: 21300000, guid: 1a9a17e6b79e3964abf81dce56587c2b, type: 3}
+  - {fileID: 21300000, guid: e799e2276405b754a8a4009171a15f81, type: 3}
+  - {fileID: 21300000, guid: b6171a973a2679b428f6f2d52f28792e, type: 3}
+  - {fileID: 21300000, guid: d09f55a8f8ef30242804a1442044e093, type: 3}
+  - {fileID: 21300000, guid: 2fc3b9b85d4a2524f877069c6a943b6e, type: 3}
+  - {fileID: 21300000, guid: 22beccb8111a7094a8a5c4849b05cf2c, type: 3}
+  - {fileID: 21300000, guid: 07bcf4196c4fecd4ca3ccdb160078a81, type: 3}
+  - {fileID: 21300000, guid: e7f3a52923e8e934394ec525be665271, type: 3}
+  - {fileID: 21300000, guid: 3bd22c393f24cca47a3c4de8968132d8, type: 3}
+  - {fileID: 21300000, guid: fdc4cd59aa3e4994eae7719e03f8c76b, type: 3}
+  - {fileID: 21300000, guid: 0974ff896263a784a81f91eb141cbbf4, type: 3}
+  - {fileID: 21300000, guid: 62971ee91a4cf934b868fe95c8d968c3, type: 3}
+  - {fileID: 21300000, guid: 2c0a081b40c0cc542af7e79398122b34, type: 3}
+  - {fileID: 21300000, guid: fed9d13b12fbc8449ab44ab6957b4c7d, type: 3}
+  - {fileID: 21300000, guid: b940356bbfdac694ea4d1970d6f183fe, type: 3}
+  - {fileID: 21300000, guid: 559b6e9ba6f2010429d60508b8e1eaac, type: 3}
+  - {fileID: 21300000, guid: e311877c91b9587498b03dbeaff00d06, type: 3}
+  - {fileID: 21300000, guid: 6daeb02de64841a40910603d85847dd7, type: 3}
+  - {fileID: 7033710087752822945, guid: d853d52d270e65343af941d8b514cb23, type: 3}
+  - {fileID: 21300000, guid: a60dc38d5ac6db94185762dfbd4ee6fa, type: 3}
+  - {fileID: 21300000, guid: 894235ad1bfaa53479af717d0a4b6e70, type: 3}
+  - {fileID: 21300000, guid: a6f597bd0e16e2d4f80ffd9dfcce2c97, type: 3}
+  - {fileID: 21300000, guid: 6070c9dd4c0038841bfd590ac05bd40c, type: 3}
+  - {fileID: 21300000, guid: ef93b81e06d76784bb617899a26e5446, type: 3}
+  - {fileID: 21300000, guid: ca5eba8eb8b6e04438f07e72233ec0a4, type: 3}
+  - {fileID: 21300000, guid: d6d4c6eef71cae847aa7b91e3f53fe12, type: 3}
+  - {fileID: 21300000, guid: 9c45d20f6dc553a449c80a896914b961, type: 3}
+  - {fileID: 21300000, guid: d5a7339f8d77aa04985daeaed418c82d, type: 3}
+  - {fileID: 21300000, guid: f4b21baf7ad6ceb459070db4b91240b8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - border_blue
+  - light
+  - icon_heart
+  - star_gray
+  - star_normal
+  - icon_add
+  - btn_orange_round
+  - icon_timer
+  - btn_up
+  - icon_flag_progress
+  - progress_bar_revive
+  - btn_yellow
+  - border_on
+  - progress_revive
+  - star_blue
+  - on
+  - btn_right
+  - revive_icon_heart
+  - icon_gem
+  - progress_bar
+  - btn_green
+  - icon_ads_btn
+  - btn_blue
+  - btn_pause
+  - border_progress
+  - btn_left
+  - btn
+  - btn_close
+  - orange Button 1
+  - banner_win
+  - orange Button
+  - icon_flag_win
+  - icon_ads
+  - progress_bar_revive 1_0
+  - border
+  - btn_down
+  - icon_head_player
+  - header
+  - icon_coin
+  - btn_blue_round
+  - btn_blue
+  - btn_shoot
+  - gameover_flag
+  - boder_out
+  m_RenderDataMap: {}
+  m_Tag: UIGame
+  m_IsVariant: 0

@@ -1,0 +1,111 @@
+
+Leo Thang.png
+size: 920,352
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/Body_0
+  rotate: false
+  xy: 245, 28
+  size: 244, 323
+  orig: 244, 323
+  offset: 0, 0
+  index: -1
+1/Hand_L_0
+  rotate: false
+  xy: 735, 277
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+1/Hand_R_0
+  rotate: false
+  xy: 735, 202
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+1/Leg_L_0
+  rotate: false
+  xy: 735, 68
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+1/Leg_R_0
+  rotate: false
+  xy: 735, 21
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+2/Body_0
+  rotate: false
+  xy: 0, 0
+  size: 244, 351
+  orig: 244, 351
+  offset: 0, 0
+  index: -1
+2/Hand_L_0
+  rotate: false
+  xy: 828, 277
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+2/Hand_R_0
+  rotate: false
+  xy: 828, 202
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+2/Leg_L_0
+  rotate: false
+  xy: 791, 68
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+2/Leg_R_0
+  rotate: false
+  xy: 784, 21
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+3/Body_0
+  rotate: false
+  xy: 490, 28
+  size: 244, 323
+  orig: 244, 323
+  offset: 0, 0
+  index: -1
+3/Hand_L_0
+  rotate: false
+  xy: 735, 127
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+3/Hand_R_0
+  rotate: false
+  xy: 828, 127
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+3/Leg_L_0
+  rotate: false
+  xy: 847, 68
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+3/Leg_R_0
+  rotate: false
+  xy: 833, 21
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1

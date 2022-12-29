@@ -1,0 +1,83 @@
+
+Stone.png
+size: 815,592
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Img/1
+  rotate: false
+  xy: 2, 397
+  size: 378, 193
+  orig: 378, 193
+  offset: 0, 0
+  index: -1
+Img/2
+  rotate: true
+  xy: 382, 460
+  size: 130, 311
+  orig: 130, 311
+  offset: 0, 0
+  index: -1
+Img/3
+  rotate: false
+  xy: 613, 19
+  size: 200, 216
+  orig: 200, 216
+  offset: 0, 0
+  index: -1
+Img/4
+  rotate: true
+  xy: 2, 8
+  size: 137, 215
+  orig: 137, 215
+  offset: 0, 0
+  index: -1
+Img/5
+  rotate: false
+  xy: 237, 139
+  size: 144, 256
+  orig: 144, 256
+  offset: 0, 0
+  index: -1
+Img/6
+  rotate: true
+  xy: 609, 237
+  size: 221, 191
+  orig: 222, 192
+  offset: 1, 1
+  index: -1
+Img/ef_1734
+  rotate: false
+  xy: 219, 11
+  size: 128, 126
+  orig: 128, 128
+  offset: 0, 1
+  index: -1
+Img/ef_1735
+  rotate: false
+  xy: 2, 147
+  size: 233, 248
+  orig: 256, 256
+  offset: 16, 8
+  index: -1
+Img/ef_wb_015
+  rotate: false
+  xy: 383, 2
+  size: 228, 212
+  orig: 256, 256
+  offset: 0, 16
+  index: -1
+Img/ef_wb_016
+  rotate: false
+  xy: 383, 216
+  size: 224, 242
+  orig: 256, 256
+  offset: 0, 7
+  index: -1
+Img/ef_wb_017
+  rotate: true
+  xy: 695, 464
+  size: 126, 116
+  orig: 128, 128
+  offset: 0, 6
+  index: -1

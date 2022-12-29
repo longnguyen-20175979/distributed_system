@@ -1,0 +1,20 @@
+
+mushroom.png
+size: 160,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nam do
+  rotate: false
+  xy: 87, 12
+  size: 70, 94
+  orig: 72, 94
+  offset: 2, 0
+  index: -1
+Nam xanh
+  rotate: false
+  xy: 2, 2
+  size: 83, 104
+  orig: 85, 106
+  offset: 1, 2
+  index: -1

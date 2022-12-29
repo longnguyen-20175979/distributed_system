@@ -1,0 +1,62 @@
+
+ca chim.png
+size: 244,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_eye_R
+  rotate: false
+  xy: 0, 0
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+Layer 41 copy 3
+  rotate: false
+  xy: 156, 115
+  size: 88, 120
+  orig: 88, 120
+  offset: 0, 0
+  index: -1
+Layer 53
+  rotate: false
+  xy: 0, 136
+  size: 155, 99
+  orig: 155, 99
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 143, 28
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: -1
+body_eye
+  rotate: false
+  xy: 32, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 67, 4
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 101, 4
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: false
+  xy: 0, 37
+  size: 142, 98
+  orig: 142, 98
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+Hoa Ban Dan.png
+size: 452,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 324, 81
+  size: 54, 203
+  orig: 54, 203
+  offset: 0, 0
+  index: -1
+La1
+  rotate: false
+  xy: 0, 0
+  size: 112, 61
+  orig: 112, 61
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 113, 8
+  size: 84, 49
+  orig: 84, 49
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 379, 167
+  size: 48, 117
+  orig: 48, 117
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 201, 145
+  size: 122, 139
+  orig: 122, 139
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 0, 130
+  size: 200, 154
+  orig: 200, 154
+  offset: 0, 0
+  index: -1
+la_2
+  rotate: false
+  xy: 210, 14
+  size: 119, 59
+  orig: 119, 59
+  offset: 0, 0
+  index: -1
+la_3
+  rotate: false
+  xy: 0, 62
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+la_4
+  rotate: false
+  xy: 330, 20
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+lip_down
+  rotate: false
+  xy: 117, 58
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+lip_up
+  rotate: false
+  xy: 210, 74
+  size: 108, 70
+  orig: 108, 70
+  offset: 0, 0
+  index: -1

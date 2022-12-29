@@ -1,0 +1,90 @@
+
+nhim.png
+size: 444,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lung
+  rotate: false
+  xy: 2, 84
+  size: 248, 185
+  orig: 250, 188
+  offset: 1, 2
+  index: -1
+chan1
+  rotate: true
+  xy: 251, 7
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+chan2
+  rotate: true
+  xy: 251, 7
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+chan3
+  rotate: true
+  xy: 251, 7
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+dot
+  rotate: true
+  xy: 203, 14
+  size: 17, 22
+  orig: 19, 24
+  offset: 1, 1
+  index: -1
+dot_R
+  rotate: true
+  xy: 203, 14
+  size: 17, 22
+  orig: 19, 24
+  offset: 1, 1
+  index: -1
+eye_L
+  rotate: true
+  xy: 312, 8
+  size: 54, 61
+  orig: 56, 63
+  offset: 1, 1
+  index: -1
+eye_R
+  rotate: true
+  xy: 375, 8
+  size: 54, 61
+  orig: 56, 63
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 252, 64
+  size: 205, 136
+  orig: 205, 136
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 203, 33
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+tai2
+  rotate: false
+  xy: 390, 208
+  size: 49, 61
+  orig: 49, 61
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 2
+  size: 199, 80
+  orig: 202, 83
+  offset: 1, 2
+  index: -1

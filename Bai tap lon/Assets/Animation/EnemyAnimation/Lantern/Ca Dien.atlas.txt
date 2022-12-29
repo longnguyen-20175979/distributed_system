@@ -1,0 +1,111 @@
+
+Ca Dien.png
+size: 400,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 57
+  size: 174, 151
+  orig: 174, 151
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 179, 214
+  size: 179, 178
+  orig: 179, 178
+  offset: 0, 0
+  index: -1
+Mi_R
+  rotate: false
+  xy: 359, 322
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 0, 0
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 334, 2
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+eye_body
+  rotate: false
+  xy: 334, 66
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 57, 13
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+eye_close 2
+  rotate: false
+  xy: 173, 0
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+llight
+  rotate: false
+  xy: 0, 209
+  size: 178, 183
+  orig: 178, 183
+  offset: 0, 0
+  index: -1
+mi_L
+  rotate: false
+  xy: 115, 25
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 179, 130
+  size: 150, 83
+  orig: 150, 83
+  offset: 0, 0
+  index: -1
+tai
+  rotate: false
+  xy: 175, 39
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+vay_body
+  rotate: false
+  xy: 359, 346
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+vay_down
+  rotate: false
+  xy: 265, 47
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+vay_up
+  rotate: false
+  xy: 330, 131
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1

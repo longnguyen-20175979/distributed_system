@@ -1,0 +1,96 @@
+
+sau.png
+size: 504,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard_L
+  rotate: false
+  xy: 440, 157
+  size: 62, 87
+  orig: 62, 87
+  offset: 0, 0
+  index: -1
+Beard_R
+  rotate: false
+  xy: 19, 183
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 278, 0
+  size: 138, 163
+  orig: 138, 163
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 0, 53
+  size: 88, 129
+  orig: 88, 129
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: false
+  xy: 347, 164
+  size: 92, 80
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+dot_eye
+  rotate: false
+  xy: 0, 220
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 109, 181
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 286, 179
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+eye_close_1
+  rotate: false
+  xy: 168, 181
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+eye_close_2
+  rotate: false
+  xy: 227, 181
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 89, 18
+  size: 188, 162
+  orig: 188, 162
+  offset: 0, 0
+  index: -1
+
+sau2.png
+size: 440,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dead
+  rotate: false
+  xy: 0, 0
+  size: 440, 302
+  orig: 440, 302
+  offset: 0, 0
+  index: -1

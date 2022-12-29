@@ -1,0 +1,97 @@
+
+Bo canh cam.png
+size: 300,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard_L
+  rotate: false
+  xy: 157, 2
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+Beard_R
+  rotate: true
+  xy: 183, 3
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 117, 15
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+Leg_3
+  rotate: true
+  xy: 117, 3
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+Leg_4
+  rotate: true
+  xy: 117, 3
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+dot_eye
+  rotate: true
+  xy: 225, 5
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+dot_light
+  rotate: true
+  xy: 257, 37
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 236, 12
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 205, 37
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 137, 3
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: true
+  xy: 205, 25
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 144, 23
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 2, 7
+  size: 113, 86
+  orig: 113, 86
+  offset: 0, 0
+  index: -1

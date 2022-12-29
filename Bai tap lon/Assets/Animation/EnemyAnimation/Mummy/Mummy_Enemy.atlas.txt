@@ -1,0 +1,132 @@
+
+Mummy_Enemy.png
+size: 641,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 2
+  size: 297, 319
+  orig: 332, 319
+  offset: 0, 0
+  index: -1
+Body-21
+  rotate: true
+  xy: 490, 147
+  size: 152, 94
+  orig: 152, 94
+  offset: 0, 0
+  index: -1
+EF/0
+  rotate: false
+  xy: 586, 147
+  size: 42, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+EF/1
+  rotate: false
+  xy: 586, 189
+  size: 48, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+EF/2
+  rotate: false
+  xy: 403, 44
+  size: 47, 53
+  orig: 48, 54
+  offset: 0, 1
+  index: -1
+EF/3
+  rotate: false
+  xy: 589, 91
+  size: 47, 54
+  orig: 47, 55
+  offset: 0, 1
+  index: -1
+EF/4
+  rotate: true
+  xy: 403, 7
+  size: 35, 47
+  orig: 36, 48
+  offset: 1, 0
+  index: -1
+EF/5
+  rotate: false
+  xy: 452, 53
+  size: 25, 44
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+EF/ef1
+  rotate: true
+  xy: 586, 241
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+EF/ef2
+  rotate: false
+  xy: 556, 17
+  size: 78, 72
+  orig: 78, 72
+  offset: 0, 0
+  index: -1
+EF/ef3
+  rotate: true
+  xy: 323, 107
+  size: 96, 80
+  orig: 96, 80
+  offset: 0, 0
+  index: -1
+EF/ef4
+  rotate: true
+  xy: 323, 13
+  size: 92, 78
+  orig: 92, 78
+  offset: 0, 0
+  index: -1
+Face
+  rotate: false
+  xy: 323, 205
+  size: 165, 94
+  orig: 165, 94
+  offset: 0, 0
+  index: -1
+L-Arm
+  rotate: true
+  xy: 405, 99
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+R-Arm
+  rotate: true
+  xy: 405, 99
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+L-Leg
+  rotate: false
+  xy: 485, 12
+  size: 69, 101
+  orig: 69, 101
+  offset: 0, 0
+  index: -1
+R-Leg
+  rotate: false
+  xy: 485, 12
+  size: 69, 101
+  orig: 69, 101
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 485, 115
+  size: 102, 30
+  orig: 102, 30
+  offset: 0, 0
+  index: -1

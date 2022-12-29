@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0c4c0ef63f8f234db2caa3676d660be, type: 3}
+  m_Name: IAPCombo3
+  m_EditorClassIdentifier: 
+  items:
+  - type: 10
+    detail: 0
+    quantity: 30
+    countable: 1
+    spine: {fileID: 0}
+    spriteUI: {fileID: 21300000, guid: c7ca368a4bdfe3f458e49b2bc30e30be, type: 3}
+  - type: 13
+    detail: 0
+    quantity: 20
+    countable: 0
+    spine: {fileID: 0}
+    spriteUI: {fileID: 21300000, guid: e0f4b31f379867949acde7dfdc8ec278, type: 3}

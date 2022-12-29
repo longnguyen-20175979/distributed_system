@@ -1,0 +1,97 @@
+
+ong.png
+size: 556,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard_L
+  rotate: true
+  xy: 407, 65
+  size: 88, 78
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 94
+  size: 169, 183
+  orig: 171, 185
+  offset: 1, 1
+  index: -1
+Head
+  rotate: true
+  xy: 173, 100
+  size: 177, 169
+  orig: 180, 172
+  offset: 1, 2
+  index: -1
+Leg_L
+  rotate: true
+  xy: 257, 2
+  size: 45, 139
+  orig: 45, 139
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 398, 4
+  size: 129, 43
+  orig: 131, 45
+  offset: 1, 1
+  index: -1
+Teeth_L
+  rotate: true
+  xy: 344, 198
+  size: 79, 53
+  orig: 81, 55
+  offset: 1, 1
+  index: -1
+Teeth_R
+  rotate: true
+  xy: 487, 55
+  size: 40, 39
+  orig: 43, 41
+  offset: 1, 1
+  index: -1
+eye_L
+  rotate: false
+  xy: 344, 138
+  size: 61, 58
+  orig: 63, 60
+  offset: 1, 1
+  index: -1
+eye_R
+  rotate: false
+  xy: 487, 97
+  size: 58, 56
+  orig: 60, 58
+  offset: 1, 1
+  index: -1
+mi
+  rotate: false
+  xy: 257, 49
+  size: 148, 49
+  orig: 151, 51
+  offset: 1, 1
+  index: -1
+neck
+  rotate: false
+  xy: 175, 3
+  size: 80, 95
+  orig: 83, 97
+  offset: 2, 1
+  index: -1
+wing
+  rotate: false
+  xy: 407, 155
+  size: 146, 122
+  orig: 149, 125
+  offset: 2, 2
+  index: -1
+wing_02
+  rotate: true
+  xy: 2, 3
+  size: 89, 171
+  orig: 91, 173
+  offset: 1, 1
+  index: -1

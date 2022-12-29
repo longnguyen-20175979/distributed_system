@@ -1,0 +1,109 @@
+
+boss_monster.png
+size: 508,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: true
+  xy: 2, 51
+  size: 147, 229
+  orig: 147, 229
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 180, 200
+  size: 159, 117
+  orig: 159, 117
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 96, 350
+  size: 92, 41
+  orig: 92, 41
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2, 350
+  size: 92, 41
+  orig: 92, 41
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: true
+  xy: 357, 308
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+finger2
+  rotate: false
+  xy: 264, 319
+  size: 91, 72
+  orig: 91, 72
+  offset: 0, 0
+  index: -1
+finger3
+  rotate: false
+  xy: 190, 327
+  size: 72, 64
+  orig: 72, 64
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 341, 152
+  size: 165, 154
+  orig: 165, 154
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 2, 258
+  size: 176, 90
+  orig: 176, 90
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 233, 2
+  size: 234, 148
+  orig: 234, 148
+  offset: 0, 0
+  index: -1
+
+boss_monster2.png
+size: 464,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_forearm
+  rotate: false
+  xy: 2, 3
+  size: 188, 180
+  orig: 188, 180
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 192, 2
+  size: 269, 181
+  orig: 269, 181
+  offset: 0, 0
+  index: -1
+
+boss_monster3.png
+size: 380,368
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 376, 362
+  orig: 376, 362
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+sau.png
+size: 156,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard_L
+  rotate: true
+  xy: 95, 36
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+Beard_R
+  rotate: false
+  xy: 115, 118
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 37, 6
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 115, 64
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: true
+  xy: 2, 11
+  size: 129, 33
+  orig: 129, 33
+  offset: 0, 0
+  index: -1
+dot_eye
+  rotate: true
+  xy: 2, 2
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 95, 8
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: true
+  xy: 121, 10
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 37, 74
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1

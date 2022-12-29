@@ -1,0 +1,132 @@
+
+cloud.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 37
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 37
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 37
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 37
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+1 copy
+  rotate: false
+  xy: 350, 23
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+2 copy
+  rotate: false
+  xy: 350, 23
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+3 copy
+  rotate: false
+  xy: 350, 23
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+4 copy
+  rotate: false
+  xy: 350, 23
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+8 copy
+  rotate: false
+  xy: 350, 23
+  size: 127, 127
+  orig: 127, 127
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 232, 35
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1
+5 copy
+  rotate: true
+  xy: 479, 23
+  size: 127, 128
+  orig: 127, 128
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 743, 16
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+6 copy
+  rotate: false
+  xy: 1017, 4
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 609, 18
+  size: 132, 132
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+7 copy
+  rotate: false
+  xy: 1165, 4
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 117, 37
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 879, 14
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+9 copy
+  rotate: false
+  xy: 1313, 2
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1

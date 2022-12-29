@@ -1,0 +1,13 @@
+
+bomb.png
+size: 176,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bomb
+  rotate: false
+  xy: 0, 0
+  size: 174, 178
+  orig: 174, 178
+  offset: 0, 0
+  index: -1

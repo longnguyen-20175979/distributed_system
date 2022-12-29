@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIShop
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 63b80c6e588945646baa6e2bf67eb989, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7e0a411082698784f972f1e18f8cdfc7, type: 3}
+  - {fileID: 21300000, guid: ea5e3c303a921ad41af404765a5e4763, type: 3}
+  - {fileID: 21300000, guid: 6b423890f4a9e32459a6b90dbd562569, type: 3}
+  - {fileID: 21300000, guid: 5a3e2ba3c45deb5429384b91fd1eb096, type: 3}
+  - {fileID: 21300000, guid: 09bca4540cbf69d4fae7a22bd8c6e1d5, type: 3}
+  - {fileID: 21300000, guid: fd7d6285072fdaf4ba16c2878ed526e3, type: 3}
+  - {fileID: 21300000, guid: c575da950688b6b47af93254dabf8e26, type: 3}
+  - {fileID: 21300000, guid: 513914b575aa06545be471aafaae1a6c, type: 3}
+  - {fileID: 21300000, guid: f69262d5f0958b54283d552f4ec728e1, type: 3}
+  - {fileID: 21300000, guid: a5a91af64f84ca44dae0de0ec03ff46c, type: 3}
+  - {fileID: 21300000, guid: 4cbecff603afe454a9cd128bdd3a3369, type: 3}
+  - {fileID: 21300000, guid: 7331c21895f4c3749b6466d3a98800f8, type: 3}
+  - {fileID: 21300000, guid: 27bcc528b09339840b6442046ea946a5, type: 3}
+  - {fileID: 21300000, guid: b406de28aae7de94cbbd822b4295e7e7, type: 3}
+  - {fileID: 21300000, guid: 8dc36ac8a4c1cf74990a6286c33eb313, type: 3}
+  - {fileID: 21300000, guid: a338d0b95fb6c7341a2135a0127bdacf, type: 3}
+  - {fileID: 21300000, guid: 6e08627abd02b2b49866a0f67096fec0, type: 3}
+  - {fileID: 21300000, guid: c7ca368a4bdfe3f458e49b2bc30e30be, type: 3}
+  - {fileID: 21300000, guid: fd28e4fb03edd3749a1145f44affde26, type: 3}
+  - {fileID: 21300000, guid: 41eec34c5c843ac41bf39609e8d84721, type: 3}
+  - {fileID: 21300000, guid: 7c083cbc5713d7f4e997ddf9235aec08, type: 3}
+  - {fileID: 21300000, guid: ee189dbc26ac7fb47bf51fbf2330fe50, type: 3}
+  - {fileID: 21300000, guid: d28e05cc9699bcc498f691de5bec6db5, type: 3}
+  - {fileID: 21300000, guid: 7b8ee73dfbdb80a4295f5160fedb3e62, type: 3}
+  - {fileID: 21300000, guid: 50e99b4d54fc70c49be84f616c4b09ab, type: 3}
+  - {fileID: 21300000, guid: ed3c3f7d7c99ba346bd6b9ec23e5fffa, type: 3}
+  - {fileID: 21300000, guid: e0f4b31f379867949acde7dfdc8ec278, type: 3}
+  - {fileID: 21300000, guid: 6f5a061fa7f70af4e94302d460c17ca4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - text_bestvalue
+  - remove_ads
+  - blur
+  - NEED SOME diamond_
+  - bullet_combo
+  - icon_plus_orange
+  - icon_chest_gem
+  - btn_green_shop
+  - bag_heart
+  - icon_chest_gem1
+  - icon_bag
+  - border_violet
+  - starter_pack
+  - vip_packs
+  - border_normal
+  - border_blue
+  - gem1
+  - bag_bullet
+  - icon_gem
+  - blur2
+  - border_combo
+  - Group 72
+  - item_heart_trip_combo
+  - icon_dou_bag
+  - tap_select
+  - best_value
+  - icon_no_ads
+  - icon_vip
+  m_RenderDataMap: {}
+  m_Tag: UIShop
+  m_IsVariant: 0

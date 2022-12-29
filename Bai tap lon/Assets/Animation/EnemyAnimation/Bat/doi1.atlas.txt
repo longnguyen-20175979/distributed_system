@@ -1,0 +1,104 @@
+
+doi1.png
+size: 256,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 50
+  size: 136, 92
+  orig: 138, 94
+  offset: 1, 1
+  index: -1
+Close_R
+  rotate: true
+  xy: 215, 88
+  size: 44, 37
+  orig: 44, 38
+  offset: 0, 1
+  index: -1
+Layer 24
+  rotate: true
+  xy: 2, 144
+  size: 175, 153
+  orig: 177, 155
+  offset: 1, 1
+  index: -1
+Layer 27
+  rotate: true
+  xy: 161, 328
+  size: 191, 91
+  orig: 191, 91
+  offset: 0, 0
+  index: -1
+Layer 28
+  rotate: false
+  xy: 157, 190
+  size: 55, 129
+  orig: 57, 133
+  offset: 1, 3
+  index: -1
+Layer 29
+  rotate: true
+  xy: 2, 2
+  size: 46, 108
+  orig: 48, 111
+  offset: 1, 2
+  index: -1
+Leg_L
+  rotate: false
+  xy: 214, 269
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 214, 210
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+close_L
+  rotate: false
+  xy: 157, 134
+  size: 83, 54
+  orig: 84, 54
+  offset: 1, 0
+  index: -1
+dot_eye
+  rotate: false
+  xy: 112, 31
+  size: 15, 17
+  orig: 17, 20
+  offset: 1, 1
+  index: -1
+eye
+  rotate: true
+  xy: 213, 12
+  size: 56, 41
+  orig: 58, 44
+  offset: 1, 2
+  index: -1
+mi
+  rotate: false
+  xy: 140, 18
+  size: 71, 50
+  orig: 75, 54
+  offset: 2, 3
+  index: -1
+nose
+  rotate: false
+  xy: 140, 70
+  size: 73, 62
+  orig: 75, 64
+  offset: 1, 1
+  index: -1
+wing_l
+  rotate: false
+  xy: 2, 321
+  size: 157, 198
+  orig: 210, 198
+  offset: 53, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+Stone Angry.png
+size: 1592,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm_L
+  rotate: true
+  xy: 1330, 28
+  size: 135, 255
+  orig: 136, 257
+  offset: 1, 1
+  index: -1
+Arm_R
+  rotate: false
+  xy: 1145, 19
+  size: 72, 112
+  orig: 74, 119
+  offset: 1, 1
+  index: -1
+Boss_dead
+  rotate: false
+  xy: 2, 2
+  size: 655, 339
+  orig: 655, 339
+  offset: 0, 0
+  index: -1
+Foot_L
+  rotate: false
+  xy: 659, 18
+  size: 128, 110
+  orig: 128, 110
+  offset: 0, 0
+  index: -1
+Foot_R
+  rotate: false
+  xy: 659, 18
+  size: 128, 110
+  orig: 128, 110
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 1103, 133
+  size: 225, 208
+  orig: 227, 215
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 1219, 47
+  size: 84, 87
+  orig: 85, 89
+  offset: 0, 1
+  index: -1
+Leg_L
+  rotate: false
+  xy: 1043, 17
+  size: 100, 111
+  orig: 101, 112
+  offset: 1, 1
+  index: -1
+Leg_R
+  rotate: false
+  xy: 1043, 17
+  size: 100, 111
+  orig: 101, 112
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 659, 130
+  size: 211, 442
+  orig: 212, 443
+  offset: 0, 1
+  index: -1
+hand_right
+  rotate: false
+  xy: 938, 19
+  size: 103, 109
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1330, 165
+  size: 176, 260
+  orig: 177, 260
+  offset: 1, 0
+  index: -1
+hip
+  rotate: false
+  xy: 789, 45
+  size: 147, 83
+  orig: 149, 83
+  offset: 1, 0
+  index: -1

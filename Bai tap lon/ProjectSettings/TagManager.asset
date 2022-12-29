@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - WaterDie
+  - WinLevel
+  - InvisibleBlock
+  - Springs
+  - Enemy
+  - Ladder
+  - Trap
+  - Bomb
+  - CoinDetector
+  - BreakableBlock
+  - MysteryBlock
+  - Heart
+  - PlayerBullet
+  - Bullet
+  - Water
+  - BackToGround
+  - GroundSpawnPos
+  - ExtraMapSpawnPos
+  - Bar
+  - Boat
+  - Spikes
+  - SpawnBullet
+  - BouncingBomb
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Only Player
+  - Player Excluder
+  - Player
+  - Item
+  - Only Ground
+  - Only Surface
+  - Immortal
+  - Magnet
+  - DieWater
+  - EnemySlayer
+  - Protector
+  - BulletPlayer
+  - ItemCollector
+  - ElementEnemy
+  - InvisibleGround
+  - Coin
+  - DieLimit
+  - MiniWater
+  - PeaBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Forgotten
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Object
+    uniqueID: 1169486731
+    locked: 0
+  - name: Forgotten
+    uniqueID: 2635457781
+    locked: 0
+  - name: Water
+    uniqueID: 3256019657
+    locked: 0
+  - name: Ground
+    uniqueID: 685218725
+    locked: 0
+  - name: Item
+    uniqueID: 2606758743
+    locked: 0
+  - name: Player
+    uniqueID: 4123986169
+    locked: 0
+  - name: Enemy
+    uniqueID: 1333119683
+    locked: 0
+  - name: InvisibleGround
+    uniqueID: 2104862445
+    locked: 0
+  - name: UI
+    uniqueID: 104649015
+    locked: 0

@@ -1,0 +1,41 @@
+
+sua.png
+size: 368,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_in
+  rotate: false
+  xy: 2, 96
+  size: 169, 132
+  orig: 169, 132
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 173, 113
+  size: 185, 115
+  orig: 185, 115
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: true
+  xy: 2, 6
+  size: 88, 149
+  orig: 88, 149
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 173, 51
+  size: 60, 184
+  orig: 60, 184
+  offset: 0, 0
+  index: -1
+leg3
+  rotate: true
+  xy: 153, 2
+  size: 47, 212
+  orig: 47, 212
+  offset: 0, 0
+  index: -1

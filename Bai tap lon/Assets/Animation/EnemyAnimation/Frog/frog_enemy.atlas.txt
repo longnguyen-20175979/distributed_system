@@ -1,0 +1,146 @@
+
+frog_enemy.png
+size: 1474,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Frog_1/Body-11
+  rotate: true
+  xy: 573, 7
+  size: 219, 173
+  orig: 222, 192
+  offset: 0, 0
+  index: -1
+Frog_1/Body-12
+  rotate: true
+  xy: 398, 6
+  size: 220, 173
+  orig: 224, 202
+  offset: 0, 19
+  index: -1
+Frog_1/L-Arm-11
+  rotate: true
+  xy: 1385, 138
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+Frog_1/R-Arm-11
+  rotate: true
+  xy: 1385, 138
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+Frog_1/L-Eye
+  rotate: false
+  xy: 1192, 17
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+Frog_1/L-Leg-21
+  rotate: true
+  xy: 1060, 70
+  size: 156, 114
+  orig: 156, 114
+  offset: 0, 0
+  index: -1
+Frog_1/L-leg-11
+  rotate: false
+  xy: 1292, 129
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+Frog_1/R-Leg-11
+  rotate: false
+  xy: 1292, 129
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+Frog_1/R-Eye
+  rotate: true
+  xy: 1060, 2
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+Frog_1/R-Leg-21
+  rotate: true
+  xy: 748, 34
+  size: 192, 173
+  orig: 192, 173
+  offset: 0, 0
+  index: -1
+Frog_2/Body-11
+  rotate: true
+  xy: 200, 4
+  size: 222, 196
+  orig: 222, 199
+  offset: 0, 3
+  index: -1
+Frog_2/Body-12
+  rotate: true
+  xy: 2, 2
+  size: 224, 196
+  orig: 224, 201
+  offset: 0, 5
+  index: -1
+Frog_2/L-Arm-11
+  rotate: true
+  xy: 1389, 49
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+Frog_2/R-Arm-11
+  rotate: true
+  xy: 1389, 49
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+Frog_2/L-Eye
+  rotate: false
+  xy: 1244, 17
+  size: 50, 51
+  orig: 54, 57
+  offset: 2, 3
+  index: -1
+Frog_2/L-Leg-21
+  rotate: true
+  xy: 1176, 70
+  size: 156, 114
+  orig: 156, 114
+  offset: 0, 0
+  index: -1
+Frog_2/L-leg-11
+  rotate: false
+  xy: 1296, 31
+  size: 91, 96
+  orig: 91, 96
+  offset: 0, 0
+  index: -1
+Frog_2/R-Leg-11
+  rotate: false
+  xy: 1296, 31
+  size: 91, 96
+  orig: 91, 96
+  offset: 0, 0
+  index: -1
+Frog_2/R-Eye
+  rotate: true
+  xy: 1127, 2
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+Frog_2/R-Leg-21
+  rotate: true
+  xy: 923, 44
+  size: 182, 135
+  orig: 182, 135
+  offset: 0, 0
+  index: -1

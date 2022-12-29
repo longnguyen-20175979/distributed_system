@@ -1,0 +1,27 @@
+
+springs.png
+size: 112,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Circle
+  rotate: false
+  xy: 59, 111
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 0, 0
+  size: 111, 28
+  orig: 111, 28
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 0, 29
+  size: 58, 112
+  orig: 58, 112
+  offset: 0, 0
+  index: -1

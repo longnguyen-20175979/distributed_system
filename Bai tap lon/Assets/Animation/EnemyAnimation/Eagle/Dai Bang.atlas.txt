@@ -1,0 +1,81 @@
+
+Dai Bang.png
+size: 428,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Duoi
+  rotate: false
+  xy: 73, 418
+  size: 212, 70
+  orig: 212, 70
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 0, 0
+  size: 278, 201
+  orig: 278, 201
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 168, 202
+  size: 259, 200
+  orig: 259, 200
+  offset: 0, 0
+  index: -1
+dot_eye
+  rotate: false
+  xy: 0, 465
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+egg
+  rotate: false
+  xy: 0, 263
+  size: 167, 154
+  orig: 167, 154
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 19, 425
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+mi
+  rotate: false
+  xy: 286, 403
+  size: 124, 85
+  orig: 124, 85
+  offset: 0, 0
+  index: -1
+
+Dai Bang2.png
+size: 276,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 0
+  size: 276, 215
+  orig: 276, 215
+  offset: 0, 0
+  index: -1
+
+Dai Bang3.png
+size: 240,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wing_L
+  rotate: false
+  xy: 0, 0
+  size: 240, 299
+  orig: 240, 299
+  offset: 0, 0
+  index: -1

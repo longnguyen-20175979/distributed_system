@@ -1,0 +1,20 @@
+
+FLOWERS.png
+size: 68,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 0, 38
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+Flowes
+  rotate: false
+  xy: 0, 0
+  size: 41, 37
+  orig: 44, 39
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,167 @@
+
+boss_monster.png
+size: 996,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: true
+  xy: 410, 18
+  size: 126, 197
+  orig: 126, 197
+  offset: 0, 0
+  index: -1
+L_forearm
+  rotate: false
+  xy: 612, 17
+  size: 161, 154
+  orig: 161, 154
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 2, 118
+  size: 230, 155
+  orig: 230, 155
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 880, 449
+  size: 136, 100
+  orig: 136, 100
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 275
+  size: 322, 310
+  orig: 322, 310
+  offset: 0, 0
+  index: -1
+boss_monster_ice/L_arm
+  rotate: true
+  xy: 648, 173
+  size: 126, 197
+  orig: 126, 197
+  offset: 0, 0
+  index: -1
+boss_monster_ice/L_forearm
+  rotate: true
+  xy: 234, 112
+  size: 161, 174
+  orig: 161, 174
+  offset: 0, 0
+  index: -1
+boss_monster_ice/R_arm
+  rotate: false
+  xy: 648, 430
+  size: 230, 155
+  orig: 230, 155
+  offset: 0, 0
+  index: -1
+boss_monster_ice/R_leg
+  rotate: false
+  xy: 2, 16
+  size: 136, 100
+  orig: 136, 100
+  offset: 0, 0
+  index: -1
+boss_monster_ice/body
+  rotate: false
+  xy: 326, 275
+  size: 320, 310
+  orig: 320, 310
+  offset: 0, 0
+  index: -1
+boss_monster_ice/finger1
+  rotate: true
+  xy: 352, 49
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+boss_monster_ice/finger2
+  rotate: true
+  xy: 928, 3
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+boss_monster_ice/finger3
+  rotate: true
+  xy: 213, 39
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+boss_monster_ice/head
+  rotate: false
+  xy: 847, 162
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+boss_monster_ice/head1
+  rotate: false
+  xy: 775, 4
+  size: 151, 77
+  orig: 151, 77
+  offset: 0, 0
+  index: -1
+boss_monster_ice/jaw
+  rotate: false
+  xy: 410, 146
+  size: 200, 127
+  orig: 200, 127
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 140, 2
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+finger1
+  rotate: false
+  xy: 140, 43
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+finger2
+  rotate: true
+  xy: 928, 82
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+finger3
+  rotate: false
+  xy: 288, 55
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 850, 296
+  size: 141, 132
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 775, 83
+  size: 151, 77
+  orig: 151, 77
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 648, 301
+  size: 200, 127
+  orig: 200, 127
+  offset: 0, 0
+  index: -1

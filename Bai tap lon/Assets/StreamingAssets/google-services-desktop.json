@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888181938586",
+    "project_id": "flint-go",
+    "storage_bucket": "flint-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888181938586:android:8477b205e1ecafc931c223",
+        "android_client_info": {
+          "package_name": "com.wdg.flint.go.superrun.classic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888181938586-mp144fnv6lb47801vth1lq4ihorqmps0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3IUcJpi-5S1hOs2xgFefqPDjpMZ0EqeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888181938586-mp144fnv6lb47801vth1lq4ihorqmps0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

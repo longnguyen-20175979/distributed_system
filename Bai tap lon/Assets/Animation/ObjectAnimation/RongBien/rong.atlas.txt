@@ -1,0 +1,27 @@
+
+rong.png
+size: 260,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rong1
+  rotate: false
+  xy: 200, 0
+  size: 60, 228
+  orig: 60, 228
+  offset: 0, 0
+  index: -1
+rong2
+  rotate: false
+  xy: 0, 36
+  size: 99, 192
+  orig: 99, 192
+  offset: 0, 0
+  index: -1
+rong3
+  rotate: false
+  xy: 100, 36
+  size: 99, 192
+  orig: 99, 192
+  offset: 0, 0
+  index: -1

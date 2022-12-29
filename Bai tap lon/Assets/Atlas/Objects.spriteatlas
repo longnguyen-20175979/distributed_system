@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Objects
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d605b1765b8ce5c438feb0d2fb5d36e7, type: 3}
+    - {fileID: 2800000, guid: 1047cf40966a1bb4da532f1a7d74471e, type: 3}
+    - {fileID: 2800000, guid: f3ecda35f2e6720419c6d880812eb530, type: 3}
+    - {fileID: 2800000, guid: f6e8cfce55fe4854e9b699b9d7a22b4f, type: 3}
+    - {fileID: 2800000, guid: c154a7a8d44dab34596aa06d198e0c14, type: 3}
+    - {fileID: 2800000, guid: e6b03d03e7f49864a9d99ac9f1a6c0b3, type: 3}
+    - {fileID: 2800000, guid: 8000aaf51f13bb044ae8612b6a112066, type: 3}
+    - {fileID: 2800000, guid: e836895e6915a0644bd19d06a7881f92, type: 3}
+    - {fileID: 2800000, guid: b5749ee765cf38d4e9b0909a7a692afc, type: 3}
+    - {fileID: 2800000, guid: b5a27065124f8ca47b7481317b2fab86, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1047cf40966a1bb4da532f1a7d74471e, type: 3}
+  - {fileID: 21300000, guid: c6b9a1614ba462f42bf32425d091f052, type: 3}
+  - {fileID: 21300000, guid: c8d2bd22f0cfccd4babdf7593be65bd3, type: 3}
+  - {fileID: 21300000, guid: e6b03d03e7f49864a9d99ac9f1a6c0b3, type: 3}
+  - {fileID: 21300000, guid: 2600c3059e935c941a7cc1e13b868790, type: 3}
+  - {fileID: 21300000, guid: f3ecda35f2e6720419c6d880812eb530, type: 3}
+  - {fileID: 21300000, guid: b5a27065124f8ca47b7481317b2fab86, type: 3}
+  - {fileID: 21300000, guid: 8000aaf51f13bb044ae8612b6a112066, type: 3}
+  - {fileID: 21300000, guid: 1dacb747e1a540b43a8abb0c5a7e0aa1, type: 3}
+  - {fileID: 21300000, guid: b5749ee765cf38d4e9b0909a7a692afc, type: 3}
+  - {fileID: 21300000, guid: c154a7a8d44dab34596aa06d198e0c14, type: 3}
+  - {fileID: 21300000, guid: c2da544b1491cf04db088209912af82e, type: 3}
+  - {fileID: 21300000, guid: 3c4878bbfbeb93e438d88ca3b806b822, type: 3}
+  - {fileID: 21300000, guid: 932af24c89f464b4ba705b9d07da832c, type: 3}
+  - {fileID: 21300000, guid: e836895e6915a0644bd19d06a7881f92, type: 3}
+  - {fileID: 21300000, guid: fb5d3c9ecd60c3f47a535783b652895b, type: 3}
+  - {fileID: 21300000, guid: f6e8cfce55fe4854e9b699b9d7a22b4f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tube
+  - Door_6
+  - Door_2
+  - object_move
+  - Door_1
+  - tube2
+  - thorn_bar
+  - open_door
+  - Door_3
+  - Spikes
+  - Layer 95
+  - 2
+  - Door_4
+  - Door_5
+  - spike
+  - 1
+  - saw
+  m_RenderDataMap: {}
+  m_Tag: Objects
+  m_IsVariant: 0

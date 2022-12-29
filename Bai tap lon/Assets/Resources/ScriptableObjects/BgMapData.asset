@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c354281e36d2a642a6d2c2d42759283, type: 3}
+  m_Name: BgMapData
+  m_EditorClassIdentifier: 
+  bgMap:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 0000000001000000020000000400000005000000030000000600000007000000
+    _keys: 0000000001000000020000000400000005000000030000000600000007000000
+    _values:
+    - bgFirst: {fileID: 21300000, guid: 83fd9d8d5dfd85840b550d0c1bd1980b, type: 3}
+      bgSecond: {fileID: -5032436746679491188, guid: b7cdf3dfcf8ba484e872c86be444448d, type: 3}
+    - bgFirst: {fileID: 21300000, guid: 8e727fa16d4856e4183eccc43c9a0a8b, type: 3}
+      bgSecond: {fileID: 21300000, guid: ea13a3d5f8911e24bb13b0dcd7b0fa09, type: 3}
+    - bgFirst: {fileID: 21300000, guid: 8d0183e4ce872184788a0b60b3d33485, type: 3}
+      bgSecond: {fileID: 21300000, guid: 89c674443bb3abf45a519f341631f49f, type: 3}
+    - bgFirst: {fileID: 21300000, guid: 3588498414923cc41aca037a1103c338, type: 3}
+      bgSecond: {fileID: 21300000, guid: f546fc4e58a451541b81c812436e0f2e, type: 3}
+    - bgFirst: {fileID: 21300000, guid: f27539ef0175c72439db507d333fe3e3, type: 3}
+      bgSecond: {fileID: 21300000, guid: dcd333c026d4ea04d80006e22db8d6d2, type: 3}
+    - bgFirst: {fileID: 0}
+      bgSecond: {fileID: 0}
+    - bgFirst: {fileID: 21300000, guid: d0fd6e8ab5444fa41b377382722cd107, type: 3}
+      bgSecond: {fileID: 21300000, guid: 344fa291107d4fa4caf3d08c8b9ce23a, type: 3}
+    - bgFirst: {fileID: 0}
+      bgSecond: {fileID: 0}

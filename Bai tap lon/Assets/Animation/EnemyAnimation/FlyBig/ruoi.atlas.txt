@@ -1,0 +1,90 @@
+
+ruoi.png
+size: 292,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beard_R
+  rotate: true
+  xy: 233, 74
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 145
+  size: 166, 159
+  orig: 168, 161
+  offset: 1, 1
+  index: -1
+Ellipse 2
+  rotate: false
+  xy: 2, 6
+  size: 147, 137
+  orig: 149, 139
+  offset: 1, 1
+  index: -1
+Layer 42
+  rotate: true
+  xy: 151, 52
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+Wing_L
+  rotate: true
+  xy: 170, 234
+  size: 70, 83
+  orig: 72, 85
+  offset: 1, 1
+  index: -1
+Wing_R
+  rotate: true
+  xy: 170, 162
+  size: 70, 83
+  orig: 72, 85
+  offset: 1, 1
+  index: -1
+beard_L
+  rotate: true
+  xy: 170, 101
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 211, 24
+  size: 48, 55
+  orig: 50, 57
+  offset: 1, 1
+  index: -1
+eye_R
+  rotate: true
+  xy: 151, 2
+  size: 48, 55
+  orig: 50, 57
+  offset: 1, 1
+  index: -1
+leg2
+  rotate: true
+  xy: 255, 143
+  size: 41, 30
+  orig: 43, 32
+  offset: 1, 1
+  index: -1
+leg_1
+  rotate: true
+  xy: 268, 31
+  size: 41, 22
+  orig: 43, 24
+  offset: 1, 1
+  index: -1
+mi
+  rotate: true
+  xy: 255, 186
+  size: 118, 35
+  orig: 120, 37
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Dai Bang_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 339a5c6ea28bbf344a505227c19a7301, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 640a6023e0db152438c254048c70b2a6, type: 2}
+  - {fileID: 2100000, guid: 45de3e31869a08a4b8e5682c2be903ea, type: 2}
+  - {fileID: 2100000, guid: 4fa1ec45e9918954eb63b5524925cf33, type: 2}
