@@ -22,4 +22,11 @@ public class StaticSpikes : MonoBehaviour
             PlayerMovement.instance.playerAction.HurtPlayer(damage);
         }
     }
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag(Constants.TAG.PLAYER) && collision.gameObject.name == "Body")
+        {
+            enterPlayer = false;
+        }
+    }
 }
